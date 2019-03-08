@@ -1,0 +1,1 @@
+An example timer app, written in React Native using Hooks
